@@ -1,1 +1,2 @@
 nowy plik z nowym featurem ... bla bla bla
+test 2
